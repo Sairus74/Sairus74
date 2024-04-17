@@ -1,6 +1,6 @@
 # Руслан Саитов
 
-![Header](https://github.com/Sairus74/Start/blob/main/python.jpg)
+![Header](https://github.com/Sairus74/Sairus74/blob/main/python.jpg)
 
 
 ## Навыки
